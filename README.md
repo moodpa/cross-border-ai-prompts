@@ -5,6 +5,20 @@
 
 ---
 
+## 🚀 Get the Full Pack
+
+**🔥 Just $1 — Instant Download**
+
+👉 **[Buy Now on PayPal](https://paypal.me/wyy0607/1)**
+
+Includes all 50 prompts across 8 categories:
+Product Research · Supplier Outreach · Listing Optimization · Copywriting
+Customer Service · Market Analysis · Inventory · Social Media Marketing
+
+*Questions? Open an issue or DM me!*
+
+---
+
 ## Category 1: Product Research (8 prompts)
 
 ### Prompt 1: Market Gap Analysis
