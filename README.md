@@ -5,6 +5,23 @@
 
 ---
 
+## 📚 Complete Article Series (Dev.to)
+
+I've written an 8-article series showing exactly how to use these prompts in a real cross-border store. Each article contains copy-paste templates and real results:
+
+| # | Article | System |
+|---|---------|--------|
+| 1 | [How I Automated Customer Service with AI Prompts](https://dev.to/goodpa/how-i-automated-my-cross-border-e-commerce-customer-service-with-ai-prompts-and-saved-10-agg) | 📞 Customer Service |
+| 2 | [Micro-Agent Architecture with ChatGPT](https://dev.to/goodpa/building-a-micro-agent-architecture-with-chatgpt-prompts-a-framework-for-e-commerce-automation-57k6) | 🏗️ Architecture |
+| 3 | [AI Prompts for Affiliate Marketing](https://dev.to/goodpa/how-i-use-ai-prompts-to-automate-my-affiliate-marketing-a-complete-workflow-2pd) | 🤝 Affiliate Marketing |
+| 4 | [Market Research Prompt Chain](https://dev.to/goodpa/how-i-use-ai-prompts-for-market-research-as-a-cross-border-seller-a-prompt-chain-approach-5fei) | 🔍 Market Research |
+| 5 | [Product Listing Optimization](https://dev.to/goodpa/how-i-built-an-ai-prompt-chain-to-optimize-product-listings-for-amazon-bsr-85k-to-32k-462m) | 📝 Listing Optimization |
+| 6 | [AI-Powered Price Monitoring](https://dev.to/goodpa/how-i-built-an-ai-powered-price-monitoring-system-with-just-chatgpt-prompts-1gok) | 💰 Price Monitoring |
+| 7 | [Inventory Forecasting with Prompts](https://dev.to/goodpa/how-i-use-chatgpt-prompts-to-forecast-inventory-for-my-cross-border-store-30f2) | 📦 Inventory |
+| 8 | [Complete Cross-Border Automation Toolkit](https://dev.to/goodpa/the-complete-cross-border-automation-toolkit) (coming soon) | 🛠️ Toolkit Recap |
+
+---
+
 ## 🚀 Get the Full Pack
 
 **🔥 Just $1 — Instant Download**
