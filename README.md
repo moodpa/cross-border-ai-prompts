@@ -18,7 +18,7 @@ I've written an 8-article series showing exactly how to use these prompts in a r
 | 5 | [Product Listing Optimization](https://dev.to/goodpa/how-i-built-an-ai-prompt-chain-to-optimize-product-listings-for-amazon-bsr-85k-to-32k-462m) | 📝 Listing Optimization |
 | 6 | [AI-Powered Price Monitoring](https://dev.to/goodpa/how-i-built-an-ai-powered-price-monitoring-system-with-just-chatgpt-prompts-1gok) | 💰 Price Monitoring |
 | 7 | [Inventory Forecasting with Prompts](https://dev.to/goodpa/how-i-use-chatgpt-prompts-to-forecast-inventory-for-my-cross-border-store-30f2) | 📦 Inventory |
-| 8 | [Complete Cross-Border Automation Toolkit](https://dev.to/goodpa/the-complete-cross-border-automation-toolkit) (coming soon) | 🛠️ Toolkit Recap |
+| 8 | [Complete Cross-Border Automation Toolkit](https://dev.to/goodpa/the-complete-cross-border-automation-toolkit-how-i-chain-7-chatgpt-prompt-systems-together-17al) | 🛠️ Toolkit Recap |
 
 ---
 
